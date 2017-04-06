@@ -29,12 +29,11 @@ body {
   font-size: 4vh;
 
 }
-
+a {
+  text-decoration: none;
+}
 #logo-container {
   background-color: #e3e3e3;
-
-}
-#logo {
 }
 #logo ul {
   height: 80vh;
@@ -42,15 +41,8 @@ body {
 #digital-container {
     background-color: #bfbfbf;
 }
-#digital {
-  /*height: 61vh;*/
-  overflow: hidden;
-}
 #game-container {
   background-color: #919191;
-}
-#game {
-
 }
 #game ul {
   padding-bottom: 2vh;
@@ -58,7 +50,6 @@ body {
 .h1 {
   margin: 5vh 0;
 }
-
 .col-md-4 img {
   text-align: center;
   padding-top: 2vh;
