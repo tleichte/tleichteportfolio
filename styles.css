@@ -1,0 +1,88 @@
+body {
+  background-color: #6b6b6b;
+}
+.header {
+  height: 25vh;
+  text-align: center;
+  background-color: #fff;
+}
+.header img {
+  height: 100%;
+}
+.project_container {
+  height: 100%;
+  padding-bottom: 1vh;
+  text-align: center;
+}
+.project_button {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 5vh;
+  height: 7vh;
+  cursor: pointer;
+}
+.project_content {
+  height: 100%;
+}
+.project_content h2 {
+  font-family: 'Josefin Sans', sans serif;
+  font-size: 4vh;
+
+}
+
+#logo-container {
+  background-color: #e3e3e3;
+
+}
+#logo {
+}
+#logo ul {
+  height: 80vh;
+}
+#digital-container {
+    background-color: #bfbfbf;
+}
+#digital {
+  /*height: 61vh;*/
+  overflow: hidden;
+}
+#game-container {
+  background-color: #919191;
+}
+#game {
+
+}
+#game ul {
+  padding-bottom: 2vh;
+}
+.h1 {
+  margin: 5vh 0;
+}
+
+.col-md-4 img {
+  text-align: center;
+  padding-top: 2vh;
+  height: 60vh;
+  margin: auto;
+}
+.col-md-3 img {
+  text-align: center;
+  padding-top: 2vh;
+  height: 30vh;
+  margin: auto;
+}
+.col-md-6 img {
+  text-align: center;
+  padding-top: 2vh;
+  height: 40vh;
+  margin: auto;
+}
+.col-md-12 img {
+  text-align: center;
+  padding-top: 2vh;
+  height: 40vh;
+  margin: auto;
+}
+ul {
+  list-style: none;
+}
