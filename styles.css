@@ -1,79 +1,25 @@
+body, html {
+    height: 100%;
+    text-align: center;
+}
 body {
-  background-color: #6b6b6b;
+    background-color: #009b71;
 }
-.header {
-  height: 25vh;
-  text-align: center;
-  background-color: #fff;
+h1, h2, p {
+    color: #FFF;
+    font-family: 'Passion One', cursive;
+    font-size-adjust: 1;
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 2px;
+    padding-bottom: 15px;
 }
-.header img {
-  height: 100%;
+p {
+    -webkit-text-stroke-width: 1px;
+    text-decoration: underline; 
 }
-.project_container {
-  height: 100%;
-  padding-bottom: 1vh;
-  text-align: center;
+img {
+    padding-bottom: 30px;
 }
-.project_button {
-  text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 5vh;
-  height: 7vh;
-  cursor: pointer;
-}
-.project_content {
-  height: 100%;
-}
-.project_content h2 {
-  font-family: 'Josefin Sans', sans serif;
-  font-size: 4vh;
-
-}
-a {
-  text-decoration: none;
-}
-#logo-container {
-  background-color: #e3e3e3;
-}
-#logo ul {
-  height: 80vh;
-}
-#digital-container {
-    background-color: #bfbfbf;
-}
-#game-container {
-  background-color: #919191;
-}
-#game ul {
-  padding-bottom: 2vh;
-}
-.h1 {
-  margin: 5vh 0;
-}
-.col-md-4 img {
-  text-align: center;
-  padding-top: 2vh;
-  height: 60vh;
-  margin: auto;
-}
-.col-md-3 img {
-  text-align: center;
-  padding-top: 2vh;
-  height: 30vh;
-  margin: auto;
-}
-.col-md-6 img {
-  text-align: center;
-  padding-top: 2vh;
-  height: 40vh;
-  margin: auto;
-}
-.col-md-12 img {
-  text-align: center;
-  padding-top: 2vh;
-  height: 40vh;
-  margin: auto;
-}
-ul {
-  list-style: none;
+.outer, .inner {
+    height: 100%;
 }
