@@ -8,8 +8,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="/assets/favicon.ico">
   <link rel="stylesheet" href="https://use.typekit.net/ben1dqr.css">
-<link rel="stylesheet" href="styles.76a2ee180516e0d442de.css"></head>
+<link rel="stylesheet" href="styles.66ce8d60b0c3eff960ce.css"></head>
 <body>
-  <app-root></app-root>
-<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.2f4a59095805af02bd79.js"></script><script type="text/javascript" src="main.e053ae2a0097e2ccc70f.js"></script></body>
+  <style>
+    #outer {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+  </style>
+  <app-root>
+    <div id="outer" style="display: none">
+      <h1 class="futura-thicc">Loading...</h1>
+      <h3 class="futura-thin">If you are using Internet Explorer, please use the latest versions of Chrome, Firefox, or Edge to view this site.</h3>
+    </div>
+    <script>
+      document.getElementById("outer").style.display = "flex";
+    </script>
+  </app-root>
+  <noscript>
+    <style>
+      body, html {
+        height: 100%;
+        background-color: #3A393A;
+        color: #4AC8F5;
+        margin: 0;
+        overflow: hidden;
+      }
+      h1 {
+        font-size: 5em;
+        font-family: "futura-pt",sans-serif;
+        font-style: normal;
+        font-weight: 500;
+      }
+      h3 {
+        font-size: 2em;
+        font-family: "futura-pt",sans-serif;
+        font-style: normal;
+        font-weight: 300;
+      }
+    </style>
+    <div id="outer">
+      <h1>I promise it's worth it.</h1>
+      <h3>You're gonna need JavaScript enabled to see this site.</h3>
+    </div>
+  </noscript>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.2f4a59095805af02bd79.js"></script><script type="text/javascript" src="main.2ef875f460d04f92855e.js"></script></body>
 </html>
