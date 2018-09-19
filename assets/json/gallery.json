@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Husky Game Development | Logo Design",
+        "description": "Here is a logo I designed for Husky Game Development. I wanted to keep it sleek and modern, as well as give some symbolism of game development.",
+        "icon": "hgd",
+        "InnerImages": [ "HGDLogo.png" ]
+    },
+    {
+        "title": "BOSS Snowplow | Web Design",
+        "description": "As part of my internship, I was tasked with designing an internal web app capable of sending and receiving data similar to the old version, all while giving it a makeover.",
+        "icon": "boss",
+        "InnerImages": [
+            "BOSSMainMenu.png",
+            "BOSSTechSupport.png",
+            "BOSSKanban.png",
+            "BOSSPlowTable.png",
+            "BOSSProgramTable.png",
+            "BOSSTrigger.png",
+            "BOSSRegistration.png",
+            "BOSS404-1.png",
+            "BOSS404-2.png",
+            "BOSS404-3.png",
+            "BOSS404-4.png"
+        ]
+    },
+    {
+        "title": "Creative Suite 155 | Graphic Design",
+        "description": "These are several posters and materials I designed while on my on-campus job.",
+        "icon": "cs155",
+        "InnerImages": [
+            "CS155Training.png",
+            "CS155HuskyLEAD.png",
+            "CS155ThankYou.png",
+            "CS155Program.png",
+            "CS155CoverSlide.png",
+            "CS155InnerSlide.png",
+            "CS155Certificate.png",
+            "CS155FixItHousing.png"
+        ]
+    },
+    {
+        "title": "Coney Dog Games | Marketing Design",
+        "description": "Here is the logo and business card design I created for Coney Dog Games. It gives homage to the classic Detroit Coney Dog with a pinup cartoon style.",
+        "icon": "coney",
+        "InnerImages": [
+            "ConeyLogo.png"
+        ]
+    },
+    {
+        "title": "Bonzai Brawl | T-Shirt Design",
+        "description": "Here is a t-shirt design I did for the Bonzai Brawl 2018 AI Programming Competition. It resembles Yin and Yang through water and fire.",
+        "icon": "bonzai",
+        "InnerImages": [
+            "BonzaiBrawl.png"
+        ]
+    }
+]
