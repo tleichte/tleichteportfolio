@@ -43,7 +43,8 @@
         "description": "Here is the logo and business card design I created for Coney Dog Games. It gives homage to the classic Detroit Coney Dog with a pinup cartoon style.",
         "icon": "coney",
         "InnerImages": [
-            "ConeyLogo.png"
+            "ConeyLogo.png",
+            "ConeyBC.png"
         ]
     },
     {
