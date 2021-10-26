@@ -1,3 +1,3 @@
 # tleichteportfolio
 
-The hosted code at https://tylereichten.info
+The hosted code at https://tleichte.github.io
