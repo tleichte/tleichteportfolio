@@ -1,9 +1,50 @@
 [
     {
-        "title": "Husky Game Development | Logo Design",
-        "description": "Here is a logo I designed for Husky Game Development. I wanted to keep it sleek and modern, as well as give some symbolism of game development. Created with Adobe Illustrator.",
-        "icon": "hgd",
-        "InnerImages": [ "HGDLogo.png" ]
+        "title": "PerBlue Entertainment",
+        "description": "My current role at PerBlue is a Front End / Engine Software developer. The most well known shipped product I've developed at PerBlue Entertainment is Disney Heroes: Battle Mode. I am also working on an unnanounced project!",
+        "icon": "pb",
+        "InnerImages": [ "dh1.png" ]
+    },
+    {
+        "title": "Roboxing",
+        "description": "Roboxing was a project developed for a physical arcade cabinet outside of the Husky Game Development lab. It also has a release on my itch.io (https://tyler-eichten.itch.io/)",
+        "icon": "robo",
+        "InnerImages": [
+            "roboxing1.png",
+            "roboxing2.png",
+            "roboxing3.png"
+        ]
+    },
+    {
+        "title": "Loot Force",
+        "description": "This was an experimental project where I learned how to use Steam's networking API and develop a turn based hacking strategy game.",
+        "icon": "lf",
+        "InnerImages": [ 
+            "lf1.png",
+            "lf2.png",
+            "lf3.png" 
+        ]
+    },
+    {
+        "title": "Barnout",
+        "description": "Barnout is a 2-4 player party game I developed as a sophomore with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Unity as well as the graphics. Available at https://huskygames.com/games/?game=barnout",
+        "icon": "barnout",
+        "InnerImages": [
+            "barnout1.png",
+            "barnout2.png",
+            "barnout3.png",
+            "barnout4.png"
+        ]
+    },
+    {
+        "title": "Siege of Arrolith",
+        "description": "Siege of Arrolith is a 2-4 player turn based combat game I developed as a freshmen with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Java. Available at https://huskygames.com/games/?game=siege-of-arrolith",
+        "icon": "arrolith",
+        "InnerImages": [
+            "arrolith1.png",
+            "arrolith2.png",
+            "arrolith3.png"
+        ]
     },
     {
         "title": "BOSS Snowplow | Web Design",
@@ -36,31 +77,6 @@
             "CS155InnerSlide.png",
             "CS155Certificate.png",
             "CS155FixItHousing.png"
-        ]
-    },
-    {
-        "title": "Coney Dog Games | Marketing Design",
-        "description": "Here is the logo and business card design I created for Coney Dog Games. It gives homage to the classic Detroit Coney Dog with a pinup cartoon style. Created with Adobe Illustrator, Adobe Photoshop, and Adobe InDesign.",
-        "icon": "coney",
-        "InnerImages": [
-            "ConeyLogo.png",
-            "ConeyBC.png"
-        ]
-    },
-    {
-        "title": "Bonzai Brawl | T-Shirt Design",
-        "description": "Here is a t-shirt design I did for the Bonzai Brawl 2018 AI Programming Competition. It resembles Yin and Yang through water and fire. Created with Adobe Illustrator.",
-        "icon": "bonzai",
-        "InnerImages": [
-            "BonzaiBrawl.png"
-        ]
-    },
-    {
-        "title": "El Zagal | Web Design",
-        "description": "This is a site I designed for El Zagal Shriners of Fargo, ND. Site is content-dynamic, so all content is their own. Website located at elzagal.org. Created with Adobe Illustrator, Wordpress, Sass, and HTML5.",
-        "icon": "elzagal",
-        "InnerImages": [
-
         ]
     }
 ]
